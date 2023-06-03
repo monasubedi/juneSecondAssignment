@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5633302-2411-45e9-9fdf-5ed86e5d4f9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assignmentFour.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prog3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/85CDCFF3-7921-42DD-BA8F-72497EC191AB.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/D63C1680-8A84-4763-9621-96C4C45EE647.jpeg" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +36,11 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;/Users/kash/IdeaProjects/assignmentFour/src/Main.java&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.Prog1">
     <configuration name="Prog1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Prog1" />
